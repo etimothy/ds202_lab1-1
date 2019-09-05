@@ -1,0 +1,15 @@
+---
+title: "owner_Elcy"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab1
+
+Name? Elcy Timothy
+What do you tell people about your field of study at a party? I study people. 
+What are the three most important tools/strategies you use for organizing your work? 1. Make folders for specific things. 2. Make to-do lists. 3. Calendars. 
+Interesting fact about yourself? I was born in Nigeria. 
