@@ -1,0 +1,26 @@
+---
+title: "Lab 1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Collaborating on a Repository
+
+Your (the "Partner's") full name and GitHub username. 
+
+-> Yealim Sung, sunghailame
+
+What did the Owner do in the most recent commit? What is the commit ID?
+
+-> She uploaded her owner file with a message 'I'm hungry'. The commit ID was dfb4be4.
+
+Knit the Owner's `owner_YourName.Rmd`. Are you able to do so without error? If you cannot, what errors did you encounter?
+
+-> Yes, I was able to do so without error.
+
+Also include one tip for making Git/GitHub easier, or an error/difficulty you encountered.
+
+-> Write down the few basic commands and always have it when you use git. Practice makes perfect!
